@@ -101,7 +101,7 @@
 /*///////////////////////////////////////////////*/
 .languages{
 color: #fff;
-margin-bottom: 50px;
+margin-bottom: 7px;
 }
 .languages_title{
   margin-bottom: 19px;
@@ -133,7 +133,6 @@ margin-left: 12px;
 }
 .maininfo_2{
   background-color: #A46A52;
-  height: 750px;
   width: 500px;
 }
 .maininfo_2_line{
@@ -179,4 +178,12 @@ margin-left: 12px;
 
 .code_text{
   color: #fff;
+}
+/*////////////////////////////////////////////////////////*/
+
+.footer_wrapper{
+  height: 40px;
+  background-color: #F6C453;
+  width: 595px;
+  margin: auto;
 }
