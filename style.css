@@ -168,3 +168,15 @@ margin-left: 12px;
 .about_info{
   color: #fff;
 }
+
+/*/////////////////////////////////////////////////////*/
+.code_title{
+  margin-top: 70px;
+  font-size: 23px;
+  color: #fff;
+  margin-bottom: 6px;
+}
+
+.code_text{
+  color: #fff;
+}
