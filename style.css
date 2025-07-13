@@ -83,9 +83,11 @@ header {
   flex-direction: column;
   gap: 6px;
 }
-
+.contact_me_info_about_images a{
+  text-decoration: none;
+}
 .info_images {
-  color: #ffff;
+  color: #fff;
   font-size: 12px;
 }
 
