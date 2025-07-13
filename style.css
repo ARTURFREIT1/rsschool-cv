@@ -7,10 +7,9 @@
   background-color: #080808;
    width: 221px;
    height: 842px;
+   padding-left: 25px;
 }
 .contact_me{
-
-  padding-left: 25px;
   margin-top: 28px;
   margin-bottom: 20px;
 }
@@ -50,4 +49,25 @@
 .info_images{
   color: #ffff;
   font-size: 12px;
+}
+/*//////////////////////////////////////////////////////////////*/
+.education{
+  color: #ffff;
+}
+.education_info_more_title{
+  margin-top: 19px;
+  font-size: 13px;
+  margin-bottom: 3px;
+}
+.education_more_subtitle_1{
+  font-size: 10px;
+  margin-bottom: 3px;
+}
+.education_more_subtitle_year{
+  margin-bottom: 10px;
+  font-size: 8px;
+}
+.education_more_line{
+  background-color: #747178;
+  height: 1px;
 }
