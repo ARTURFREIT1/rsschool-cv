@@ -71,3 +71,30 @@
   background-color: #747178;
   height: 1px;
 }
+/*/////////////////////////////////////////////////////////////////////*/
+.skill{
+  color: #ffff;
+}
+.skill_title{
+  margin-bottom: 19px;
+  margin-top: 20px;
+}
+.skill_moreinfo{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.skill_moreinfo_box{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.skill_moreinfo_dott{
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background-color: #747178;
+}
+.skill_moreinfo_info{
+  font-size: 11px;
+}
