@@ -1,12 +1,12 @@
 .wrapper{
   display: flex;
   width: 595px;
-  height: 842px;
+  margin: auto;
 }
 .maininfo_1{
-  background-color: #080808;
+  border-radius: 2%;
+  background-color: #00704A;
    width: 221px;
-   height: 842px;
    padding-left: 25px;
 }
 .contact_me{
@@ -68,7 +68,7 @@
   font-size: 8px;
 }
 .education_more_line{
-  background-color: #747178;
+  background-color: #ffff;
   height: 1px;
 }
 /*/////////////////////////////////////////////////////////////////////*/
@@ -93,8 +93,36 @@
   width: 5px;
   height: 5px;
   border-radius: 50%;
-  background-color: #747178;
+  background-color: #fff;
 }
 .skill_moreinfo_info{
+  font-size: 11px;
+}
+/*///////////////////////////////////////////////*/
+.languages{
+color: #fff;
+margin-bottom: 50px;
+}
+.languages_title{
+  margin-bottom: 19px;
+  margin-top: 20px;
+}
+.languages_moreinfo{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.languages_moreinfo_box{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.languages_moreinfo_dott{
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background-color: #fff;
+}
+.languages_moreinfo_info{
   font-size: 11px;
 }
