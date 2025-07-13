@@ -128,6 +128,9 @@ margin-bottom: 50px;
 }
 /*////////////////////////////////////////////////////////////////////////////////*/
 /*///////////////////////////////////////////////////////////////////////////////*/
+.mainifo_2_wrapper{
+margin-left: 12px;
+}
 .maininfo_2{
   background-color: #A46A52;
   height: 750px;
@@ -140,7 +143,6 @@ margin-bottom: 50px;
 }
 .name_surname_studnent{
   max-width: 320px;
-  margin-left: 12px;
   margin-top: 60px;
   margin-bottom: 94px;
 }
@@ -149,5 +151,20 @@ margin-bottom: 50px;
   font-size: 65px;
 }
 .name_surname_student{
+  color: #fff;
+}
+/*////////////////////////////////////////////////////////////*/
+.about_line{
+  width: 35px;
+  height: 2px;
+  background-color: #fff;
+  margin-bottom: 10px;
+}
+.about_title{
+  font-size: 23px;
+  color: #fff;
+  margin-bottom: 6px;
+}
+.about_info{
   color: #fff;
 }
