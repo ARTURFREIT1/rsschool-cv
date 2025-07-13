@@ -2,9 +2,9 @@
   display: flex;
   width: 595px;
   margin: auto;
+  border-radius: 2%;
 }
 .maininfo_1{
-  border-radius: 2%;
   background-color: #00704A;
    width: 221px;
    padding-left: 25px;
@@ -125,4 +125,29 @@ margin-bottom: 50px;
 }
 .languages_moreinfo_info{
   font-size: 11px;
+}
+/*////////////////////////////////////////////////////////////////////////////////*/
+/*///////////////////////////////////////////////////////////////////////////////*/
+.maininfo_2{
+  background-color: #A46A52;
+  height: 750px;
+  width: 500px;
+}
+.maininfo_2_line{
+  width: 187px;
+  height: 20px;
+  background-color: #F6C453;
+}
+.name_surname_studnent{
+  max-width: 320px;
+  margin-left: 12px;
+  margin-top: 60px;
+  margin-bottom: 94px;
+}
+.name_surname{
+  color: #fff;
+  font-size: 65px;
+}
+.name_surname_student{
+  color: #fff;
 }
